@@ -1,0 +1,15 @@
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.wrapper {
+    width: fit-content;
+    width: 80%;
+}
+.margin {
+    margin: 24px;
+}
+p {
+    font-size: 18px;
+}
